@@ -224,3 +224,8 @@ option {
 .container.left-panel-active .overlay-left {
     transform: translateX(-20%);
 }
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
